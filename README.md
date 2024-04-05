@@ -1,5 +1,4 @@
 # Practice with git and GitHub
-test edit 
 
 \[Your Step 3 Edit Here\]
 
